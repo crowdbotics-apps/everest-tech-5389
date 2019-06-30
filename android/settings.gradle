@@ -1,0 +1,3 @@
+rootProject.name = 'everest_tech_5389'
+
+include ':app'
